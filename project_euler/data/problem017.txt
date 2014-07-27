@@ -1,0 +1,1032 @@
+run:
+1        one
+2        two
+70        seventy
+3        three
+4        four
+5        five
+6        six
+7        seven
+8        eight
+9        nine
+10        ten
+11        eleven
+12        twelve
+13        thirteen
+14        fourteen
+15        fifteen
+17        seventeen
+1000        thousand
+16        sixteen
+19        nineteen
+18        eighteen
+80        eighty
+20        twenty
+90        ninety
+30        thirty
+100        hundred
+40        forty
+50        fifty
+60        sixty
+# number = 1; words = one; length = 3
+# number = 2; words = two; length = 3
+# number = 3; words = three; length = 5
+# number = 4; words = four; length = 4
+# number = 5; words = five; length = 4
+# number = 6; words = six; length = 3
+# number = 7; words = seven; length = 5
+# number = 8; words = eight; length = 5
+# number = 9; words = nine; length = 4
+# number = 10; words = ten null; length = 7
+# number = 11; words = ten one; length = 6
+# number = 12; words = ten two; length = 6
+# number = 13; words = ten three; length = 8
+# number = 14; words = ten four; length = 7
+# number = 15; words = ten five; length = 7
+# number = 16; words = ten six; length = 6
+# number = 17; words = ten seven; length = 8
+# number = 18; words = ten eight; length = 8
+# number = 19; words = ten nine; length = 7
+# number = 20; words = twenty null; length = 10
+# number = 21; words = twenty one; length = 9
+# number = 22; words = twenty two; length = 9
+# number = 23; words = twenty three; length = 11
+# number = 24; words = twenty four; length = 10
+# number = 25; words = twenty five; length = 10
+# number = 26; words = twenty six; length = 9
+# number = 27; words = twenty seven; length = 11
+# number = 28; words = twenty eight; length = 11
+# number = 29; words = twenty nine; length = 10
+# number = 30; words = thirty null; length = 10
+# number = 31; words = thirty one; length = 9
+# number = 32; words = thirty two; length = 9
+# number = 33; words = thirty three; length = 11
+# number = 34; words = thirty four; length = 10
+# number = 35; words = thirty five; length = 10
+# number = 36; words = thirty six; length = 9
+# number = 37; words = thirty seven; length = 11
+# number = 38; words = thirty eight; length = 11
+# number = 39; words = thirty nine; length = 10
+# number = 40; words = forty null; length = 9
+# number = 41; words = forty one; length = 8
+# number = 42; words = forty two; length = 8
+# number = 43; words = forty three; length = 10
+# number = 44; words = forty four; length = 9
+# number = 45; words = forty five; length = 9
+# number = 46; words = forty six; length = 8
+# number = 47; words = forty seven; length = 10
+# number = 48; words = forty eight; length = 10
+# number = 49; words = forty nine; length = 9
+# number = 50; words = fifty null; length = 9
+# number = 51; words = fifty one; length = 8
+# number = 52; words = fifty two; length = 8
+# number = 53; words = fifty three; length = 10
+# number = 54; words = fifty four; length = 9
+# number = 55; words = fifty five; length = 9
+# number = 56; words = fifty six; length = 8
+# number = 57; words = fifty seven; length = 10
+# number = 58; words = fifty eight; length = 10
+# number = 59; words = fifty nine; length = 9
+# number = 60; words = sixty null; length = 9
+# number = 61; words = sixty one; length = 8
+# number = 62; words = sixty two; length = 8
+# number = 63; words = sixty three; length = 10
+# number = 64; words = sixty four; length = 9
+# number = 65; words = sixty five; length = 9
+# number = 66; words = sixty six; length = 8
+# number = 67; words = sixty seven; length = 10
+# number = 68; words = sixty eight; length = 10
+# number = 69; words = sixty nine; length = 9
+# number = 70; words = seventy null; length = 11
+# number = 71; words = seventy one; length = 10
+# number = 72; words = seventy two; length = 10
+# number = 73; words = seventy three; length = 12
+# number = 74; words = seventy four; length = 11
+# number = 75; words = seventy five; length = 11
+# number = 76; words = seventy six; length = 10
+# number = 77; words = seventy seven; length = 12
+# number = 78; words = seventy eight; length = 12
+# number = 79; words = seventy nine; length = 11
+# number = 80; words = eighty null; length = 10
+# number = 81; words = eighty one; length = 9
+# number = 82; words = eighty two; length = 9
+# number = 83; words = eighty three; length = 11
+# number = 84; words = eighty four; length = 10
+# number = 85; words = eighty five; length = 10
+# number = 86; words = eighty six; length = 9
+# number = 87; words = eighty seven; length = 11
+# number = 88; words = eighty eight; length = 11
+# number = 89; words = eighty nine; length = 10
+# number = 90; words = ninety null; length = 10
+# number = 91; words = ninety one; length = 9
+# number = 92; words = ninety two; length = 9
+# number = 93; words = ninety three; length = 11
+# number = 94; words = ninety four; length = 10
+# number = 95; words = ninety five; length = 10
+# number = 96; words = ninety six; length = 9
+# number = 97; words = ninety seven; length = 11
+# number = 98; words = ninety eight; length = 11
+# number = 99; words = ninety nine; length = 10
+# number = 100; words = one hundred; length = 10
+# number = 101; words = one hundred and one; length = 16
+# number = 102; words = one hundred and two; length = 16
+# number = 103; words = one hundred and three; length = 18
+# number = 104; words = one hundred and four; length = 17
+# number = 105; words = one hundred and five; length = 17
+# number = 106; words = one hundred and six; length = 16
+# number = 107; words = one hundred and seven; length = 18
+# number = 108; words = one hundred and eight; length = 18
+# number = 109; words = one hundred and nine; length = 17
+# number = 110; words = one hundred and ten; length = 16
+# number = 111; words = one hundred and eleven; length = 19
+# number = 112; words = one hundred and twelve; length = 19
+# number = 113; words = one hundred and thirteen; length = 21
+# number = 114; words = one hundred and fourteen; length = 21
+# number = 115; words = one hundred and fifteen; length = 20
+# number = 116; words = one hundred and sixteen; length = 20
+# number = 117; words = one hundred and seventeen; length = 22
+# number = 118; words = one hundred and eighteen; length = 21
+# number = 119; words = one hundred and nineteen; length = 21
+# number = 120; words = one hundred and twenty; length = 19
+# number = 121; words = one hundred and twenty one; length = 22
+# number = 122; words = one hundred and twenty two; length = 22
+# number = 123; words = one hundred and twenty three; length = 24
+# number = 124; words = one hundred and twenty four; length = 23
+# number = 125; words = one hundred and twenty five; length = 23
+# number = 126; words = one hundred and twenty six; length = 22
+# number = 127; words = one hundred and twenty seven; length = 24
+# number = 128; words = one hundred and twenty eight; length = 24
+# number = 129; words = one hundred and twenty nine; length = 23
+# number = 130; words = one hundred and thirty; length = 19
+# number = 131; words = one hundred and thirty one; length = 22
+# number = 132; words = one hundred and thirty two; length = 22
+# number = 133; words = one hundred and thirty three; length = 24
+# number = 134; words = one hundred and thirty four; length = 23
+# number = 135; words = one hundred and thirty five; length = 23
+# number = 136; words = one hundred and thirty six; length = 22
+# number = 137; words = one hundred and thirty seven; length = 24
+# number = 138; words = one hundred and thirty eight; length = 24
+# number = 139; words = one hundred and thirty nine; length = 23
+# number = 140; words = one hundred and forty; length = 18
+# number = 141; words = one hundred and forty one; length = 21
+# number = 142; words = one hundred and forty two; length = 21
+# number = 143; words = one hundred and forty three; length = 23
+# number = 144; words = one hundred and forty four; length = 22
+# number = 145; words = one hundred and forty five; length = 22
+# number = 146; words = one hundred and forty six; length = 21
+# number = 147; words = one hundred and forty seven; length = 23
+# number = 148; words = one hundred and forty eight; length = 23
+# number = 149; words = one hundred and forty nine; length = 22
+# number = 150; words = one hundred and fifty; length = 18
+# number = 151; words = one hundred and fifty one; length = 21
+# number = 152; words = one hundred and fifty two; length = 21
+# number = 153; words = one hundred and fifty three; length = 23
+# number = 154; words = one hundred and fifty four; length = 22
+# number = 155; words = one hundred and fifty five; length = 22
+# number = 156; words = one hundred and fifty six; length = 21
+# number = 157; words = one hundred and fifty seven; length = 23
+# number = 158; words = one hundred and fifty eight; length = 23
+# number = 159; words = one hundred and fifty nine; length = 22
+# number = 160; words = one hundred and sixty; length = 18
+# number = 161; words = one hundred and sixty one; length = 21
+# number = 162; words = one hundred and sixty two; length = 21
+# number = 163; words = one hundred and sixty three; length = 23
+# number = 164; words = one hundred and sixty four; length = 22
+# number = 165; words = one hundred and sixty five; length = 22
+# number = 166; words = one hundred and sixty six; length = 21
+# number = 167; words = one hundred and sixty seven; length = 23
+# number = 168; words = one hundred and sixty eight; length = 23
+# number = 169; words = one hundred and sixty nine; length = 22
+# number = 170; words = one hundred and seventy; length = 20
+# number = 171; words = one hundred and seventy one; length = 23
+# number = 172; words = one hundred and seventy two; length = 23
+# number = 173; words = one hundred and seventy three; length = 25
+# number = 174; words = one hundred and seventy four; length = 24
+# number = 175; words = one hundred and seventy five; length = 24
+# number = 176; words = one hundred and seventy six; length = 23
+# number = 177; words = one hundred and seventy seven; length = 25
+# number = 178; words = one hundred and seventy eight; length = 25
+# number = 179; words = one hundred and seventy nine; length = 24
+# number = 180; words = one hundred and eighty; length = 19
+# number = 181; words = one hundred and eighty one; length = 22
+# number = 182; words = one hundred and eighty two; length = 22
+# number = 183; words = one hundred and eighty three; length = 24
+# number = 184; words = one hundred and eighty four; length = 23
+# number = 185; words = one hundred and eighty five; length = 23
+# number = 186; words = one hundred and eighty six; length = 22
+# number = 187; words = one hundred and eighty seven; length = 24
+# number = 188; words = one hundred and eighty eight; length = 24
+# number = 189; words = one hundred and eighty nine; length = 23
+# number = 190; words = one hundred and ninety; length = 19
+# number = 191; words = one hundred and ninety one; length = 22
+# number = 192; words = one hundred and ninety two; length = 22
+# number = 193; words = one hundred and ninety three; length = 24
+# number = 194; words = one hundred and ninety four; length = 23
+# number = 195; words = one hundred and ninety five; length = 23
+# number = 196; words = one hundred and ninety six; length = 22
+# number = 197; words = one hundred and ninety seven; length = 24
+# number = 198; words = one hundred and ninety eight; length = 24
+# number = 199; words = one hundred and ninety nine; length = 23
+# number = 200; words = two hundred; length = 10
+# number = 201; words = two hundred and one; length = 16
+# number = 202; words = two hundred and two; length = 16
+# number = 203; words = two hundred and three; length = 18
+# number = 204; words = two hundred and four; length = 17
+# number = 205; words = two hundred and five; length = 17
+# number = 206; words = two hundred and six; length = 16
+# number = 207; words = two hundred and seven; length = 18
+# number = 208; words = two hundred and eight; length = 18
+# number = 209; words = two hundred and nine; length = 17
+# number = 210; words = two hundred and ten; length = 16
+# number = 211; words = two hundred and eleven; length = 19
+# number = 212; words = two hundred and twelve; length = 19
+# number = 213; words = two hundred and thirteen; length = 21
+# number = 214; words = two hundred and fourteen; length = 21
+# number = 215; words = two hundred and fifteen; length = 20
+# number = 216; words = two hundred and sixteen; length = 20
+# number = 217; words = two hundred and seventeen; length = 22
+# number = 218; words = two hundred and eighteen; length = 21
+# number = 219; words = two hundred and nineteen; length = 21
+# number = 220; words = two hundred and twenty; length = 19
+# number = 221; words = two hundred and twenty one; length = 22
+# number = 222; words = two hundred and twenty two; length = 22
+# number = 223; words = two hundred and twenty three; length = 24
+# number = 224; words = two hundred and twenty four; length = 23
+# number = 225; words = two hundred and twenty five; length = 23
+# number = 226; words = two hundred and twenty six; length = 22
+# number = 227; words = two hundred and twenty seven; length = 24
+# number = 228; words = two hundred and twenty eight; length = 24
+# number = 229; words = two hundred and twenty nine; length = 23
+# number = 230; words = two hundred and thirty; length = 19
+# number = 231; words = two hundred and thirty one; length = 22
+# number = 232; words = two hundred and thirty two; length = 22
+# number = 233; words = two hundred and thirty three; length = 24
+# number = 234; words = two hundred and thirty four; length = 23
+# number = 235; words = two hundred and thirty five; length = 23
+# number = 236; words = two hundred and thirty six; length = 22
+# number = 237; words = two hundred and thirty seven; length = 24
+# number = 238; words = two hundred and thirty eight; length = 24
+# number = 239; words = two hundred and thirty nine; length = 23
+# number = 240; words = two hundred and forty; length = 18
+# number = 241; words = two hundred and forty one; length = 21
+# number = 242; words = two hundred and forty two; length = 21
+# number = 243; words = two hundred and forty three; length = 23
+# number = 244; words = two hundred and forty four; length = 22
+# number = 245; words = two hundred and forty five; length = 22
+# number = 246; words = two hundred and forty six; length = 21
+# number = 247; words = two hundred and forty seven; length = 23
+# number = 248; words = two hundred and forty eight; length = 23
+# number = 249; words = two hundred and forty nine; length = 22
+# number = 250; words = two hundred and fifty; length = 18
+# number = 251; words = two hundred and fifty one; length = 21
+# number = 252; words = two hundred and fifty two; length = 21
+# number = 253; words = two hundred and fifty three; length = 23
+# number = 254; words = two hundred and fifty four; length = 22
+# number = 255; words = two hundred and fifty five; length = 22
+# number = 256; words = two hundred and fifty six; length = 21
+# number = 257; words = two hundred and fifty seven; length = 23
+# number = 258; words = two hundred and fifty eight; length = 23
+# number = 259; words = two hundred and fifty nine; length = 22
+# number = 260; words = two hundred and sixty; length = 18
+# number = 261; words = two hundred and sixty one; length = 21
+# number = 262; words = two hundred and sixty two; length = 21
+# number = 263; words = two hundred and sixty three; length = 23
+# number = 264; words = two hundred and sixty four; length = 22
+# number = 265; words = two hundred and sixty five; length = 22
+# number = 266; words = two hundred and sixty six; length = 21
+# number = 267; words = two hundred and sixty seven; length = 23
+# number = 268; words = two hundred and sixty eight; length = 23
+# number = 269; words = two hundred and sixty nine; length = 22
+# number = 270; words = two hundred and seventy; length = 20
+# number = 271; words = two hundred and seventy one; length = 23
+# number = 272; words = two hundred and seventy two; length = 23
+# number = 273; words = two hundred and seventy three; length = 25
+# number = 274; words = two hundred and seventy four; length = 24
+# number = 275; words = two hundred and seventy five; length = 24
+# number = 276; words = two hundred and seventy six; length = 23
+# number = 277; words = two hundred and seventy seven; length = 25
+# number = 278; words = two hundred and seventy eight; length = 25
+# number = 279; words = two hundred and seventy nine; length = 24
+# number = 280; words = two hundred and eighty; length = 19
+# number = 281; words = two hundred and eighty one; length = 22
+# number = 282; words = two hundred and eighty two; length = 22
+# number = 283; words = two hundred and eighty three; length = 24
+# number = 284; words = two hundred and eighty four; length = 23
+# number = 285; words = two hundred and eighty five; length = 23
+# number = 286; words = two hundred and eighty six; length = 22
+# number = 287; words = two hundred and eighty seven; length = 24
+# number = 288; words = two hundred and eighty eight; length = 24
+# number = 289; words = two hundred and eighty nine; length = 23
+# number = 290; words = two hundred and ninety; length = 19
+# number = 291; words = two hundred and ninety one; length = 22
+# number = 292; words = two hundred and ninety two; length = 22
+# number = 293; words = two hundred and ninety three; length = 24
+# number = 294; words = two hundred and ninety four; length = 23
+# number = 295; words = two hundred and ninety five; length = 23
+# number = 296; words = two hundred and ninety six; length = 22
+# number = 297; words = two hundred and ninety seven; length = 24
+# number = 298; words = two hundred and ninety eight; length = 24
+# number = 299; words = two hundred and ninety nine; length = 23
+# number = 300; words = three hundred; length = 12
+# number = 301; words = three hundred and one; length = 18
+# number = 302; words = three hundred and two; length = 18
+# number = 303; words = three hundred and three; length = 20
+# number = 304; words = three hundred and four; length = 19
+# number = 305; words = three hundred and five; length = 19
+# number = 306; words = three hundred and six; length = 18
+# number = 307; words = three hundred and seven; length = 20
+# number = 308; words = three hundred and eight; length = 20
+# number = 309; words = three hundred and nine; length = 19
+# number = 310; words = three hundred and ten; length = 18
+# number = 311; words = three hundred and eleven; length = 21
+# number = 312; words = three hundred and twelve; length = 21
+# number = 313; words = three hundred and thirteen; length = 23
+# number = 314; words = three hundred and fourteen; length = 23
+# number = 315; words = three hundred and fifteen; length = 22
+# number = 316; words = three hundred and sixteen; length = 22
+# number = 317; words = three hundred and seventeen; length = 24
+# number = 318; words = three hundred and eighteen; length = 23
+# number = 319; words = three hundred and nineteen; length = 23
+# number = 320; words = three hundred and twenty; length = 21
+# number = 321; words = three hundred and twenty one; length = 24
+# number = 322; words = three hundred and twenty two; length = 24
+# number = 323; words = three hundred and twenty three; length = 26
+# number = 324; words = three hundred and twenty four; length = 25
+# number = 325; words = three hundred and twenty five; length = 25
+# number = 326; words = three hundred and twenty six; length = 24
+# number = 327; words = three hundred and twenty seven; length = 26
+# number = 328; words = three hundred and twenty eight; length = 26
+# number = 329; words = three hundred and twenty nine; length = 25
+# number = 330; words = three hundred and thirty; length = 21
+# number = 331; words = three hundred and thirty one; length = 24
+# number = 332; words = three hundred and thirty two; length = 24
+# number = 333; words = three hundred and thirty three; length = 26
+# number = 334; words = three hundred and thirty four; length = 25
+# number = 335; words = three hundred and thirty five; length = 25
+# number = 336; words = three hundred and thirty six; length = 24
+# number = 337; words = three hundred and thirty seven; length = 26
+# number = 338; words = three hundred and thirty eight; length = 26
+# number = 339; words = three hundred and thirty nine; length = 25
+# number = 340; words = three hundred and forty; length = 20
+# number = 341; words = three hundred and forty one; length = 23
+# number = 342; words = three hundred and forty two; length = 23
+# number = 343; words = three hundred and forty three; length = 25
+# number = 344; words = three hundred and forty four; length = 24
+# number = 345; words = three hundred and forty five; length = 24
+# number = 346; words = three hundred and forty six; length = 23
+# number = 347; words = three hundred and forty seven; length = 25
+# number = 348; words = three hundred and forty eight; length = 25
+# number = 349; words = three hundred and forty nine; length = 24
+# number = 350; words = three hundred and fifty; length = 20
+# number = 351; words = three hundred and fifty one; length = 23
+# number = 352; words = three hundred and fifty two; length = 23
+# number = 353; words = three hundred and fifty three; length = 25
+# number = 354; words = three hundred and fifty four; length = 24
+# number = 355; words = three hundred and fifty five; length = 24
+# number = 356; words = three hundred and fifty six; length = 23
+# number = 357; words = three hundred and fifty seven; length = 25
+# number = 358; words = three hundred and fifty eight; length = 25
+# number = 359; words = three hundred and fifty nine; length = 24
+# number = 360; words = three hundred and sixty; length = 20
+# number = 361; words = three hundred and sixty one; length = 23
+# number = 362; words = three hundred and sixty two; length = 23
+# number = 363; words = three hundred and sixty three; length = 25
+# number = 364; words = three hundred and sixty four; length = 24
+# number = 365; words = three hundred and sixty five; length = 24
+# number = 366; words = three hundred and sixty six; length = 23
+# number = 367; words = three hundred and sixty seven; length = 25
+# number = 368; words = three hundred and sixty eight; length = 25
+# number = 369; words = three hundred and sixty nine; length = 24
+# number = 370; words = three hundred and seventy; length = 22
+# number = 371; words = three hundred and seventy one; length = 25
+# number = 372; words = three hundred and seventy two; length = 25
+# number = 373; words = three hundred and seventy three; length = 27
+# number = 374; words = three hundred and seventy four; length = 26
+# number = 375; words = three hundred and seventy five; length = 26
+# number = 376; words = three hundred and seventy six; length = 25
+# number = 377; words = three hundred and seventy seven; length = 27
+# number = 378; words = three hundred and seventy eight; length = 27
+# number = 379; words = three hundred and seventy nine; length = 26
+# number = 380; words = three hundred and eighty; length = 21
+# number = 381; words = three hundred and eighty one; length = 24
+# number = 382; words = three hundred and eighty two; length = 24
+# number = 383; words = three hundred and eighty three; length = 26
+# number = 384; words = three hundred and eighty four; length = 25
+# number = 385; words = three hundred and eighty five; length = 25
+# number = 386; words = three hundred and eighty six; length = 24
+# number = 387; words = three hundred and eighty seven; length = 26
+# number = 388; words = three hundred and eighty eight; length = 26
+# number = 389; words = three hundred and eighty nine; length = 25
+# number = 390; words = three hundred and ninety; length = 21
+# number = 391; words = three hundred and ninety one; length = 24
+# number = 392; words = three hundred and ninety two; length = 24
+# number = 393; words = three hundred and ninety three; length = 26
+# number = 394; words = three hundred and ninety four; length = 25
+# number = 395; words = three hundred and ninety five; length = 25
+# number = 396; words = three hundred and ninety six; length = 24
+# number = 397; words = three hundred and ninety seven; length = 26
+# number = 398; words = three hundred and ninety eight; length = 26
+# number = 399; words = three hundred and ninety nine; length = 25
+# number = 400; words = four hundred; length = 11
+# number = 401; words = four hundred and one; length = 17
+# number = 402; words = four hundred and two; length = 17
+# number = 403; words = four hundred and three; length = 19
+# number = 404; words = four hundred and four; length = 18
+# number = 405; words = four hundred and five; length = 18
+# number = 406; words = four hundred and six; length = 17
+# number = 407; words = four hundred and seven; length = 19
+# number = 408; words = four hundred and eight; length = 19
+# number = 409; words = four hundred and nine; length = 18
+# number = 410; words = four hundred and ten; length = 17
+# number = 411; words = four hundred and eleven; length = 20
+# number = 412; words = four hundred and twelve; length = 20
+# number = 413; words = four hundred and thirteen; length = 22
+# number = 414; words = four hundred and fourteen; length = 22
+# number = 415; words = four hundred and fifteen; length = 21
+# number = 416; words = four hundred and sixteen; length = 21
+# number = 417; words = four hundred and seventeen; length = 23
+# number = 418; words = four hundred and eighteen; length = 22
+# number = 419; words = four hundred and nineteen; length = 22
+# number = 420; words = four hundred and twenty; length = 20
+# number = 421; words = four hundred and twenty one; length = 23
+# number = 422; words = four hundred and twenty two; length = 23
+# number = 423; words = four hundred and twenty three; length = 25
+# number = 424; words = four hundred and twenty four; length = 24
+# number = 425; words = four hundred and twenty five; length = 24
+# number = 426; words = four hundred and twenty six; length = 23
+# number = 427; words = four hundred and twenty seven; length = 25
+# number = 428; words = four hundred and twenty eight; length = 25
+# number = 429; words = four hundred and twenty nine; length = 24
+# number = 430; words = four hundred and thirty; length = 20
+# number = 431; words = four hundred and thirty one; length = 23
+# number = 432; words = four hundred and thirty two; length = 23
+# number = 433; words = four hundred and thirty three; length = 25
+# number = 434; words = four hundred and thirty four; length = 24
+# number = 435; words = four hundred and thirty five; length = 24
+# number = 436; words = four hundred and thirty six; length = 23
+# number = 437; words = four hundred and thirty seven; length = 25
+# number = 438; words = four hundred and thirty eight; length = 25
+# number = 439; words = four hundred and thirty nine; length = 24
+# number = 440; words = four hundred and forty; length = 19
+# number = 441; words = four hundred and forty one; length = 22
+# number = 442; words = four hundred and forty two; length = 22
+# number = 443; words = four hundred and forty three; length = 24
+# number = 444; words = four hundred and forty four; length = 23
+# number = 445; words = four hundred and forty five; length = 23
+# number = 446; words = four hundred and forty six; length = 22
+# number = 447; words = four hundred and forty seven; length = 24
+# number = 448; words = four hundred and forty eight; length = 24
+# number = 449; words = four hundred and forty nine; length = 23
+# number = 450; words = four hundred and fifty; length = 19
+# number = 451; words = four hundred and fifty one; length = 22
+# number = 452; words = four hundred and fifty two; length = 22
+# number = 453; words = four hundred and fifty three; length = 24
+# number = 454; words = four hundred and fifty four; length = 23
+# number = 455; words = four hundred and fifty five; length = 23
+# number = 456; words = four hundred and fifty six; length = 22
+# number = 457; words = four hundred and fifty seven; length = 24
+# number = 458; words = four hundred and fifty eight; length = 24
+# number = 459; words = four hundred and fifty nine; length = 23
+# number = 460; words = four hundred and sixty; length = 19
+# number = 461; words = four hundred and sixty one; length = 22
+# number = 462; words = four hundred and sixty two; length = 22
+# number = 463; words = four hundred and sixty three; length = 24
+# number = 464; words = four hundred and sixty four; length = 23
+# number = 465; words = four hundred and sixty five; length = 23
+# number = 466; words = four hundred and sixty six; length = 22
+# number = 467; words = four hundred and sixty seven; length = 24
+# number = 468; words = four hundred and sixty eight; length = 24
+# number = 469; words = four hundred and sixty nine; length = 23
+# number = 470; words = four hundred and seventy; length = 21
+# number = 471; words = four hundred and seventy one; length = 24
+# number = 472; words = four hundred and seventy two; length = 24
+# number = 473; words = four hundred and seventy three; length = 26
+# number = 474; words = four hundred and seventy four; length = 25
+# number = 475; words = four hundred and seventy five; length = 25
+# number = 476; words = four hundred and seventy six; length = 24
+# number = 477; words = four hundred and seventy seven; length = 26
+# number = 478; words = four hundred and seventy eight; length = 26
+# number = 479; words = four hundred and seventy nine; length = 25
+# number = 480; words = four hundred and eighty; length = 20
+# number = 481; words = four hundred and eighty one; length = 23
+# number = 482; words = four hundred and eighty two; length = 23
+# number = 483; words = four hundred and eighty three; length = 25
+# number = 484; words = four hundred and eighty four; length = 24
+# number = 485; words = four hundred and eighty five; length = 24
+# number = 486; words = four hundred and eighty six; length = 23
+# number = 487; words = four hundred and eighty seven; length = 25
+# number = 488; words = four hundred and eighty eight; length = 25
+# number = 489; words = four hundred and eighty nine; length = 24
+# number = 490; words = four hundred and ninety; length = 20
+# number = 491; words = four hundred and ninety one; length = 23
+# number = 492; words = four hundred and ninety two; length = 23
+# number = 493; words = four hundred and ninety three; length = 25
+# number = 494; words = four hundred and ninety four; length = 24
+# number = 495; words = four hundred and ninety five; length = 24
+# number = 496; words = four hundred and ninety six; length = 23
+# number = 497; words = four hundred and ninety seven; length = 25
+# number = 498; words = four hundred and ninety eight; length = 25
+# number = 499; words = four hundred and ninety nine; length = 24
+# number = 500; words = five hundred; length = 11
+# number = 501; words = five hundred and one; length = 17
+# number = 502; words = five hundred and two; length = 17
+# number = 503; words = five hundred and three; length = 19
+# number = 504; words = five hundred and four; length = 18
+# number = 505; words = five hundred and five; length = 18
+# number = 506; words = five hundred and six; length = 17
+# number = 507; words = five hundred and seven; length = 19
+# number = 508; words = five hundred and eight; length = 19
+# number = 509; words = five hundred and nine; length = 18
+# number = 510; words = five hundred and ten; length = 17
+# number = 511; words = five hundred and eleven; length = 20
+# number = 512; words = five hundred and twelve; length = 20
+# number = 513; words = five hundred and thirteen; length = 22
+# number = 514; words = five hundred and fourteen; length = 22
+# number = 515; words = five hundred and fifteen; length = 21
+# number = 516; words = five hundred and sixteen; length = 21
+# number = 517; words = five hundred and seventeen; length = 23
+# number = 518; words = five hundred and eighteen; length = 22
+# number = 519; words = five hundred and nineteen; length = 22
+# number = 520; words = five hundred and twenty; length = 20
+# number = 521; words = five hundred and twenty one; length = 23
+# number = 522; words = five hundred and twenty two; length = 23
+# number = 523; words = five hundred and twenty three; length = 25
+# number = 524; words = five hundred and twenty four; length = 24
+# number = 525; words = five hundred and twenty five; length = 24
+# number = 526; words = five hundred and twenty six; length = 23
+# number = 527; words = five hundred and twenty seven; length = 25
+# number = 528; words = five hundred and twenty eight; length = 25
+# number = 529; words = five hundred and twenty nine; length = 24
+# number = 530; words = five hundred and thirty; length = 20
+# number = 531; words = five hundred and thirty one; length = 23
+# number = 532; words = five hundred and thirty two; length = 23
+# number = 533; words = five hundred and thirty three; length = 25
+# number = 534; words = five hundred and thirty four; length = 24
+# number = 535; words = five hundred and thirty five; length = 24
+# number = 536; words = five hundred and thirty six; length = 23
+# number = 537; words = five hundred and thirty seven; length = 25
+# number = 538; words = five hundred and thirty eight; length = 25
+# number = 539; words = five hundred and thirty nine; length = 24
+# number = 540; words = five hundred and forty; length = 19
+# number = 541; words = five hundred and forty one; length = 22
+# number = 542; words = five hundred and forty two; length = 22
+# number = 543; words = five hundred and forty three; length = 24
+# number = 544; words = five hundred and forty four; length = 23
+# number = 545; words = five hundred and forty five; length = 23
+# number = 546; words = five hundred and forty six; length = 22
+# number = 547; words = five hundred and forty seven; length = 24
+# number = 548; words = five hundred and forty eight; length = 24
+# number = 549; words = five hundred and forty nine; length = 23
+# number = 550; words = five hundred and fifty; length = 19
+# number = 551; words = five hundred and fifty one; length = 22
+# number = 552; words = five hundred and fifty two; length = 22
+# number = 553; words = five hundred and fifty three; length = 24
+# number = 554; words = five hundred and fifty four; length = 23
+# number = 555; words = five hundred and fifty five; length = 23
+# number = 556; words = five hundred and fifty six; length = 22
+# number = 557; words = five hundred and fifty seven; length = 24
+# number = 558; words = five hundred and fifty eight; length = 24
+# number = 559; words = five hundred and fifty nine; length = 23
+# number = 560; words = five hundred and sixty; length = 19
+# number = 561; words = five hundred and sixty one; length = 22
+# number = 562; words = five hundred and sixty two; length = 22
+# number = 563; words = five hundred and sixty three; length = 24
+# number = 564; words = five hundred and sixty four; length = 23
+# number = 565; words = five hundred and sixty five; length = 23
+# number = 566; words = five hundred and sixty six; length = 22
+# number = 567; words = five hundred and sixty seven; length = 24
+# number = 568; words = five hundred and sixty eight; length = 24
+# number = 569; words = five hundred and sixty nine; length = 23
+# number = 570; words = five hundred and seventy; length = 21
+# number = 571; words = five hundred and seventy one; length = 24
+# number = 572; words = five hundred and seventy two; length = 24
+# number = 573; words = five hundred and seventy three; length = 26
+# number = 574; words = five hundred and seventy four; length = 25
+# number = 575; words = five hundred and seventy five; length = 25
+# number = 576; words = five hundred and seventy six; length = 24
+# number = 577; words = five hundred and seventy seven; length = 26
+# number = 578; words = five hundred and seventy eight; length = 26
+# number = 579; words = five hundred and seventy nine; length = 25
+# number = 580; words = five hundred and eighty; length = 20
+# number = 581; words = five hundred and eighty one; length = 23
+# number = 582; words = five hundred and eighty two; length = 23
+# number = 583; words = five hundred and eighty three; length = 25
+# number = 584; words = five hundred and eighty four; length = 24
+# number = 585; words = five hundred and eighty five; length = 24
+# number = 586; words = five hundred and eighty six; length = 23
+# number = 587; words = five hundred and eighty seven; length = 25
+# number = 588; words = five hundred and eighty eight; length = 25
+# number = 589; words = five hundred and eighty nine; length = 24
+# number = 590; words = five hundred and ninety; length = 20
+# number = 591; words = five hundred and ninety one; length = 23
+# number = 592; words = five hundred and ninety two; length = 23
+# number = 593; words = five hundred and ninety three; length = 25
+# number = 594; words = five hundred and ninety four; length = 24
+# number = 595; words = five hundred and ninety five; length = 24
+# number = 596; words = five hundred and ninety six; length = 23
+# number = 597; words = five hundred and ninety seven; length = 25
+# number = 598; words = five hundred and ninety eight; length = 25
+# number = 599; words = five hundred and ninety nine; length = 24
+# number = 600; words = six hundred; length = 10
+# number = 601; words = six hundred and one; length = 16
+# number = 602; words = six hundred and two; length = 16
+# number = 603; words = six hundred and three; length = 18
+# number = 604; words = six hundred and four; length = 17
+# number = 605; words = six hundred and five; length = 17
+# number = 606; words = six hundred and six; length = 16
+# number = 607; words = six hundred and seven; length = 18
+# number = 608; words = six hundred and eight; length = 18
+# number = 609; words = six hundred and nine; length = 17
+# number = 610; words = six hundred and ten; length = 16
+# number = 611; words = six hundred and eleven; length = 19
+# number = 612; words = six hundred and twelve; length = 19
+# number = 613; words = six hundred and thirteen; length = 21
+# number = 614; words = six hundred and fourteen; length = 21
+# number = 615; words = six hundred and fifteen; length = 20
+# number = 616; words = six hundred and sixteen; length = 20
+# number = 617; words = six hundred and seventeen; length = 22
+# number = 618; words = six hundred and eighteen; length = 21
+# number = 619; words = six hundred and nineteen; length = 21
+# number = 620; words = six hundred and twenty; length = 19
+# number = 621; words = six hundred and twenty one; length = 22
+# number = 622; words = six hundred and twenty two; length = 22
+# number = 623; words = six hundred and twenty three; length = 24
+# number = 624; words = six hundred and twenty four; length = 23
+# number = 625; words = six hundred and twenty five; length = 23
+# number = 626; words = six hundred and twenty six; length = 22
+# number = 627; words = six hundred and twenty seven; length = 24
+# number = 628; words = six hundred and twenty eight; length = 24
+# number = 629; words = six hundred and twenty nine; length = 23
+# number = 630; words = six hundred and thirty; length = 19
+# number = 631; words = six hundred and thirty one; length = 22
+# number = 632; words = six hundred and thirty two; length = 22
+# number = 633; words = six hundred and thirty three; length = 24
+# number = 634; words = six hundred and thirty four; length = 23
+# number = 635; words = six hundred and thirty five; length = 23
+# number = 636; words = six hundred and thirty six; length = 22
+# number = 637; words = six hundred and thirty seven; length = 24
+# number = 638; words = six hundred and thirty eight; length = 24
+# number = 639; words = six hundred and thirty nine; length = 23
+# number = 640; words = six hundred and forty; length = 18
+# number = 641; words = six hundred and forty one; length = 21
+# number = 642; words = six hundred and forty two; length = 21
+# number = 643; words = six hundred and forty three; length = 23
+# number = 644; words = six hundred and forty four; length = 22
+# number = 645; words = six hundred and forty five; length = 22
+# number = 646; words = six hundred and forty six; length = 21
+# number = 647; words = six hundred and forty seven; length = 23
+# number = 648; words = six hundred and forty eight; length = 23
+# number = 649; words = six hundred and forty nine; length = 22
+# number = 650; words = six hundred and fifty; length = 18
+# number = 651; words = six hundred and fifty one; length = 21
+# number = 652; words = six hundred and fifty two; length = 21
+# number = 653; words = six hundred and fifty three; length = 23
+# number = 654; words = six hundred and fifty four; length = 22
+# number = 655; words = six hundred and fifty five; length = 22
+# number = 656; words = six hundred and fifty six; length = 21
+# number = 657; words = six hundred and fifty seven; length = 23
+# number = 658; words = six hundred and fifty eight; length = 23
+# number = 659; words = six hundred and fifty nine; length = 22
+# number = 660; words = six hundred and sixty; length = 18
+# number = 661; words = six hundred and sixty one; length = 21
+# number = 662; words = six hundred and sixty two; length = 21
+# number = 663; words = six hundred and sixty three; length = 23
+# number = 664; words = six hundred and sixty four; length = 22
+# number = 665; words = six hundred and sixty five; length = 22
+# number = 666; words = six hundred and sixty six; length = 21
+# number = 667; words = six hundred and sixty seven; length = 23
+# number = 668; words = six hundred and sixty eight; length = 23
+# number = 669; words = six hundred and sixty nine; length = 22
+# number = 670; words = six hundred and seventy; length = 20
+# number = 671; words = six hundred and seventy one; length = 23
+# number = 672; words = six hundred and seventy two; length = 23
+# number = 673; words = six hundred and seventy three; length = 25
+# number = 674; words = six hundred and seventy four; length = 24
+# number = 675; words = six hundred and seventy five; length = 24
+# number = 676; words = six hundred and seventy six; length = 23
+# number = 677; words = six hundred and seventy seven; length = 25
+# number = 678; words = six hundred and seventy eight; length = 25
+# number = 679; words = six hundred and seventy nine; length = 24
+# number = 680; words = six hundred and eighty; length = 19
+# number = 681; words = six hundred and eighty one; length = 22
+# number = 682; words = six hundred and eighty two; length = 22
+# number = 683; words = six hundred and eighty three; length = 24
+# number = 684; words = six hundred and eighty four; length = 23
+# number = 685; words = six hundred and eighty five; length = 23
+# number = 686; words = six hundred and eighty six; length = 22
+# number = 687; words = six hundred and eighty seven; length = 24
+# number = 688; words = six hundred and eighty eight; length = 24
+# number = 689; words = six hundred and eighty nine; length = 23
+# number = 690; words = six hundred and ninety; length = 19
+# number = 691; words = six hundred and ninety one; length = 22
+# number = 692; words = six hundred and ninety two; length = 22
+# number = 693; words = six hundred and ninety three; length = 24
+# number = 694; words = six hundred and ninety four; length = 23
+# number = 695; words = six hundred and ninety five; length = 23
+# number = 696; words = six hundred and ninety six; length = 22
+# number = 697; words = six hundred and ninety seven; length = 24
+# number = 698; words = six hundred and ninety eight; length = 24
+# number = 699; words = six hundred and ninety nine; length = 23
+# number = 700; words = seven hundred; length = 12
+# number = 701; words = seven hundred and one; length = 18
+# number = 702; words = seven hundred and two; length = 18
+# number = 703; words = seven hundred and three; length = 20
+# number = 704; words = seven hundred and four; length = 19
+# number = 705; words = seven hundred and five; length = 19
+# number = 706; words = seven hundred and six; length = 18
+# number = 707; words = seven hundred and seven; length = 20
+# number = 708; words = seven hundred and eight; length = 20
+# number = 709; words = seven hundred and nine; length = 19
+# number = 710; words = seven hundred and ten; length = 18
+# number = 711; words = seven hundred and eleven; length = 21
+# number = 712; words = seven hundred and twelve; length = 21
+# number = 713; words = seven hundred and thirteen; length = 23
+# number = 714; words = seven hundred and fourteen; length = 23
+# number = 715; words = seven hundred and fifteen; length = 22
+# number = 716; words = seven hundred and sixteen; length = 22
+# number = 717; words = seven hundred and seventeen; length = 24
+# number = 718; words = seven hundred and eighteen; length = 23
+# number = 719; words = seven hundred and nineteen; length = 23
+# number = 720; words = seven hundred and twenty; length = 21
+# number = 721; words = seven hundred and twenty one; length = 24
+# number = 722; words = seven hundred and twenty two; length = 24
+# number = 723; words = seven hundred and twenty three; length = 26
+# number = 724; words = seven hundred and twenty four; length = 25
+# number = 725; words = seven hundred and twenty five; length = 25
+# number = 726; words = seven hundred and twenty six; length = 24
+# number = 727; words = seven hundred and twenty seven; length = 26
+# number = 728; words = seven hundred and twenty eight; length = 26
+# number = 729; words = seven hundred and twenty nine; length = 25
+# number = 730; words = seven hundred and thirty; length = 21
+# number = 731; words = seven hundred and thirty one; length = 24
+# number = 732; words = seven hundred and thirty two; length = 24
+# number = 733; words = seven hundred and thirty three; length = 26
+# number = 734; words = seven hundred and thirty four; length = 25
+# number = 735; words = seven hundred and thirty five; length = 25
+# number = 736; words = seven hundred and thirty six; length = 24
+# number = 737; words = seven hundred and thirty seven; length = 26
+# number = 738; words = seven hundred and thirty eight; length = 26
+# number = 739; words = seven hundred and thirty nine; length = 25
+# number = 740; words = seven hundred and forty; length = 20
+# number = 741; words = seven hundred and forty one; length = 23
+# number = 742; words = seven hundred and forty two; length = 23
+# number = 743; words = seven hundred and forty three; length = 25
+# number = 744; words = seven hundred and forty four; length = 24
+# number = 745; words = seven hundred and forty five; length = 24
+# number = 746; words = seven hundred and forty six; length = 23
+# number = 747; words = seven hundred and forty seven; length = 25
+# number = 748; words = seven hundred and forty eight; length = 25
+# number = 749; words = seven hundred and forty nine; length = 24
+# number = 750; words = seven hundred and fifty; length = 20
+# number = 751; words = seven hundred and fifty one; length = 23
+# number = 752; words = seven hundred and fifty two; length = 23
+# number = 753; words = seven hundred and fifty three; length = 25
+# number = 754; words = seven hundred and fifty four; length = 24
+# number = 755; words = seven hundred and fifty five; length = 24
+# number = 756; words = seven hundred and fifty six; length = 23
+# number = 757; words = seven hundred and fifty seven; length = 25
+# number = 758; words = seven hundred and fifty eight; length = 25
+# number = 759; words = seven hundred and fifty nine; length = 24
+# number = 760; words = seven hundred and sixty; length = 20
+# number = 761; words = seven hundred and sixty one; length = 23
+# number = 762; words = seven hundred and sixty two; length = 23
+# number = 763; words = seven hundred and sixty three; length = 25
+# number = 764; words = seven hundred and sixty four; length = 24
+# number = 765; words = seven hundred and sixty five; length = 24
+# number = 766; words = seven hundred and sixty six; length = 23
+# number = 767; words = seven hundred and sixty seven; length = 25
+# number = 768; words = seven hundred and sixty eight; length = 25
+# number = 769; words = seven hundred and sixty nine; length = 24
+# number = 770; words = seven hundred and seventy; length = 22
+# number = 771; words = seven hundred and seventy one; length = 25
+# number = 772; words = seven hundred and seventy two; length = 25
+# number = 773; words = seven hundred and seventy three; length = 27
+# number = 774; words = seven hundred and seventy four; length = 26
+# number = 775; words = seven hundred and seventy five; length = 26
+# number = 776; words = seven hundred and seventy six; length = 25
+# number = 777; words = seven hundred and seventy seven; length = 27
+# number = 778; words = seven hundred and seventy eight; length = 27
+# number = 779; words = seven hundred and seventy nine; length = 26
+# number = 780; words = seven hundred and eighty; length = 21
+# number = 781; words = seven hundred and eighty one; length = 24
+# number = 782; words = seven hundred and eighty two; length = 24
+# number = 783; words = seven hundred and eighty three; length = 26
+# number = 784; words = seven hundred and eighty four; length = 25
+# number = 785; words = seven hundred and eighty five; length = 25
+# number = 786; words = seven hundred and eighty six; length = 24
+# number = 787; words = seven hundred and eighty seven; length = 26
+# number = 788; words = seven hundred and eighty eight; length = 26
+# number = 789; words = seven hundred and eighty nine; length = 25
+# number = 790; words = seven hundred and ninety; length = 21
+# number = 791; words = seven hundred and ninety one; length = 24
+# number = 792; words = seven hundred and ninety two; length = 24
+# number = 793; words = seven hundred and ninety three; length = 26
+# number = 794; words = seven hundred and ninety four; length = 25
+# number = 795; words = seven hundred and ninety five; length = 25
+# number = 796; words = seven hundred and ninety six; length = 24
+# number = 797; words = seven hundred and ninety seven; length = 26
+# number = 798; words = seven hundred and ninety eight; length = 26
+# number = 799; words = seven hundred and ninety nine; length = 25
+# number = 800; words = eight hundred; length = 12
+# number = 801; words = eight hundred and one; length = 18
+# number = 802; words = eight hundred and two; length = 18
+# number = 803; words = eight hundred and three; length = 20
+# number = 804; words = eight hundred and four; length = 19
+# number = 805; words = eight hundred and five; length = 19
+# number = 806; words = eight hundred and six; length = 18
+# number = 807; words = eight hundred and seven; length = 20
+# number = 808; words = eight hundred and eight; length = 20
+# number = 809; words = eight hundred and nine; length = 19
+# number = 810; words = eight hundred and ten; length = 18
+# number = 811; words = eight hundred and eleven; length = 21
+# number = 812; words = eight hundred and twelve; length = 21
+# number = 813; words = eight hundred and thirteen; length = 23
+# number = 814; words = eight hundred and fourteen; length = 23
+# number = 815; words = eight hundred and fifteen; length = 22
+# number = 816; words = eight hundred and sixteen; length = 22
+# number = 817; words = eight hundred and seventeen; length = 24
+# number = 818; words = eight hundred and eighteen; length = 23
+# number = 819; words = eight hundred and nineteen; length = 23
+# number = 820; words = eight hundred and twenty; length = 21
+# number = 821; words = eight hundred and twenty one; length = 24
+# number = 822; words = eight hundred and twenty two; length = 24
+# number = 823; words = eight hundred and twenty three; length = 26
+# number = 824; words = eight hundred and twenty four; length = 25
+# number = 825; words = eight hundred and twenty five; length = 25
+# number = 826; words = eight hundred and twenty six; length = 24
+# number = 827; words = eight hundred and twenty seven; length = 26
+# number = 828; words = eight hundred and twenty eight; length = 26
+# number = 829; words = eight hundred and twenty nine; length = 25
+# number = 830; words = eight hundred and thirty; length = 21
+# number = 831; words = eight hundred and thirty one; length = 24
+# number = 832; words = eight hundred and thirty two; length = 24
+# number = 833; words = eight hundred and thirty three; length = 26
+# number = 834; words = eight hundred and thirty four; length = 25
+# number = 835; words = eight hundred and thirty five; length = 25
+# number = 836; words = eight hundred and thirty six; length = 24
+# number = 837; words = eight hundred and thirty seven; length = 26
+# number = 838; words = eight hundred and thirty eight; length = 26
+# number = 839; words = eight hundred and thirty nine; length = 25
+# number = 840; words = eight hundred and forty; length = 20
+# number = 841; words = eight hundred and forty one; length = 23
+# number = 842; words = eight hundred and forty two; length = 23
+# number = 843; words = eight hundred and forty three; length = 25
+# number = 844; words = eight hundred and forty four; length = 24
+# number = 845; words = eight hundred and forty five; length = 24
+# number = 846; words = eight hundred and forty six; length = 23
+# number = 847; words = eight hundred and forty seven; length = 25
+# number = 848; words = eight hundred and forty eight; length = 25
+# number = 849; words = eight hundred and forty nine; length = 24
+# number = 850; words = eight hundred and fifty; length = 20
+# number = 851; words = eight hundred and fifty one; length = 23
+# number = 852; words = eight hundred and fifty two; length = 23
+# number = 853; words = eight hundred and fifty three; length = 25
+# number = 854; words = eight hundred and fifty four; length = 24
+# number = 855; words = eight hundred and fifty five; length = 24
+# number = 856; words = eight hundred and fifty six; length = 23
+# number = 857; words = eight hundred and fifty seven; length = 25
+# number = 858; words = eight hundred and fifty eight; length = 25
+# number = 859; words = eight hundred and fifty nine; length = 24
+# number = 860; words = eight hundred and sixty; length = 20
+# number = 861; words = eight hundred and sixty one; length = 23
+# number = 862; words = eight hundred and sixty two; length = 23
+# number = 863; words = eight hundred and sixty three; length = 25
+# number = 864; words = eight hundred and sixty four; length = 24
+# number = 865; words = eight hundred and sixty five; length = 24
+# number = 866; words = eight hundred and sixty six; length = 23
+# number = 867; words = eight hundred and sixty seven; length = 25
+# number = 868; words = eight hundred and sixty eight; length = 25
+# number = 869; words = eight hundred and sixty nine; length = 24
+# number = 870; words = eight hundred and seventy; length = 22
+# number = 871; words = eight hundred and seventy one; length = 25
+# number = 872; words = eight hundred and seventy two; length = 25
+# number = 873; words = eight hundred and seventy three; length = 27
+# number = 874; words = eight hundred and seventy four; length = 26
+# number = 875; words = eight hundred and seventy five; length = 26
+# number = 876; words = eight hundred and seventy six; length = 25
+# number = 877; words = eight hundred and seventy seven; length = 27
+# number = 878; words = eight hundred and seventy eight; length = 27
+# number = 879; words = eight hundred and seventy nine; length = 26
+# number = 880; words = eight hundred and eighty; length = 21
+# number = 881; words = eight hundred and eighty one; length = 24
+# number = 882; words = eight hundred and eighty two; length = 24
+# number = 883; words = eight hundred and eighty three; length = 26
+# number = 884; words = eight hundred and eighty four; length = 25
+# number = 885; words = eight hundred and eighty five; length = 25
+# number = 886; words = eight hundred and eighty six; length = 24
+# number = 887; words = eight hundred and eighty seven; length = 26
+# number = 888; words = eight hundred and eighty eight; length = 26
+# number = 889; words = eight hundred and eighty nine; length = 25
+# number = 890; words = eight hundred and ninety; length = 21
+# number = 891; words = eight hundred and ninety one; length = 24
+# number = 892; words = eight hundred and ninety two; length = 24
+# number = 893; words = eight hundred and ninety three; length = 26
+# number = 894; words = eight hundred and ninety four; length = 25
+# number = 895; words = eight hundred and ninety five; length = 25
+# number = 896; words = eight hundred and ninety six; length = 24
+# number = 897; words = eight hundred and ninety seven; length = 26
+# number = 898; words = eight hundred and ninety eight; length = 26
+# number = 899; words = eight hundred and ninety nine; length = 25
+# number = 900; words = nine hundred; length = 11
+# number = 901; words = nine hundred and one; length = 17
+# number = 902; words = nine hundred and two; length = 17
+# number = 903; words = nine hundred and three; length = 19
+# number = 904; words = nine hundred and four; length = 18
+# number = 905; words = nine hundred and five; length = 18
+# number = 906; words = nine hundred and six; length = 17
+# number = 907; words = nine hundred and seven; length = 19
+# number = 908; words = nine hundred and eight; length = 19
+# number = 909; words = nine hundred and nine; length = 18
+# number = 910; words = nine hundred and ten; length = 17
+# number = 911; words = nine hundred and eleven; length = 20
+# number = 912; words = nine hundred and twelve; length = 20
+# number = 913; words = nine hundred and thirteen; length = 22
+# number = 914; words = nine hundred and fourteen; length = 22
+# number = 915; words = nine hundred and fifteen; length = 21
+# number = 916; words = nine hundred and sixteen; length = 21
+# number = 917; words = nine hundred and seventeen; length = 23
+# number = 918; words = nine hundred and eighteen; length = 22
+# number = 919; words = nine hundred and nineteen; length = 22
+# number = 920; words = nine hundred and twenty; length = 20
+# number = 921; words = nine hundred and twenty one; length = 23
+# number = 922; words = nine hundred and twenty two; length = 23
+# number = 923; words = nine hundred and twenty three; length = 25
+# number = 924; words = nine hundred and twenty four; length = 24
+# number = 925; words = nine hundred and twenty five; length = 24
+# number = 926; words = nine hundred and twenty six; length = 23
+# number = 927; words = nine hundred and twenty seven; length = 25
+# number = 928; words = nine hundred and twenty eight; length = 25
+# number = 929; words = nine hundred and twenty nine; length = 24
+# number = 930; words = nine hundred and thirty; length = 20
+# number = 931; words = nine hundred and thirty one; length = 23
+# number = 932; words = nine hundred and thirty two; length = 23
+# number = 933; words = nine hundred and thirty three; length = 25
+# number = 934; words = nine hundred and thirty four; length = 24
+# number = 935; words = nine hundred and thirty five; length = 24
+# number = 936; words = nine hundred and thirty six; length = 23
+# number = 937; words = nine hundred and thirty seven; length = 25
+# number = 938; words = nine hundred and thirty eight; length = 25
+# number = 939; words = nine hundred and thirty nine; length = 24
+# number = 940; words = nine hundred and forty; length = 19
+# number = 941; words = nine hundred and forty one; length = 22
+# number = 942; words = nine hundred and forty two; length = 22
+# number = 943; words = nine hundred and forty three; length = 24
+# number = 944; words = nine hundred and forty four; length = 23
+# number = 945; words = nine hundred and forty five; length = 23
+# number = 946; words = nine hundred and forty six; length = 22
+# number = 947; words = nine hundred and forty seven; length = 24
+# number = 948; words = nine hundred and forty eight; length = 24
+# number = 949; words = nine hundred and forty nine; length = 23
+# number = 950; words = nine hundred and fifty; length = 19
+# number = 951; words = nine hundred and fifty one; length = 22
+# number = 952; words = nine hundred and fifty two; length = 22
+# number = 953; words = nine hundred and fifty three; length = 24
+# number = 954; words = nine hundred and fifty four; length = 23
+# number = 955; words = nine hundred and fifty five; length = 23
+# number = 956; words = nine hundred and fifty six; length = 22
+# number = 957; words = nine hundred and fifty seven; length = 24
+# number = 958; words = nine hundred and fifty eight; length = 24
+# number = 959; words = nine hundred and fifty nine; length = 23
+# number = 960; words = nine hundred and sixty; length = 19
+# number = 961; words = nine hundred and sixty one; length = 22
+# number = 962; words = nine hundred and sixty two; length = 22
+# number = 963; words = nine hundred and sixty three; length = 24
+# number = 964; words = nine hundred and sixty four; length = 23
+# number = 965; words = nine hundred and sixty five; length = 23
+# number = 966; words = nine hundred and sixty six; length = 22
+# number = 967; words = nine hundred and sixty seven; length = 24
+# number = 968; words = nine hundred and sixty eight; length = 24
+# number = 969; words = nine hundred and sixty nine; length = 23
+# number = 970; words = nine hundred and seventy; length = 21
+# number = 971; words = nine hundred and seventy one; length = 24
+# number = 972; words = nine hundred and seventy two; length = 24
+# number = 973; words = nine hundred and seventy three; length = 26
+# number = 974; words = nine hundred and seventy four; length = 25
+# number = 975; words = nine hundred and seventy five; length = 25
+# number = 976; words = nine hundred and seventy six; length = 24
+# number = 977; words = nine hundred and seventy seven; length = 26
+# number = 978; words = nine hundred and seventy eight; length = 26
+# number = 979; words = nine hundred and seventy nine; length = 25
+# number = 980; words = nine hundred and eighty; length = 20
+# number = 981; words = nine hundred and eighty one; length = 23
+# number = 982; words = nine hundred and eighty two; length = 23
+# number = 983; words = nine hundred and eighty three; length = 25
+# number = 984; words = nine hundred and eighty four; length = 24
+# number = 985; words = nine hundred and eighty five; length = 24
+# number = 986; words = nine hundred and eighty six; length = 23
+# number = 987; words = nine hundred and eighty seven; length = 25
+# number = 988; words = nine hundred and eighty eight; length = 25
+# number = 989; words = nine hundred and eighty nine; length = 24
+# number = 990; words = nine hundred and ninety; length = 20
+# number = 991; words = nine hundred and ninety one; length = 23
+# number = 992; words = nine hundred and ninety two; length = 23
+# number = 993; words = nine hundred and ninety three; length = 25
+# number = 994; words = nine hundred and ninety four; length = 24
+# number = 995; words = nine hundred and ninety five; length = 24
+# number = 996; words = nine hundred and ninety six; length = 23
+# number = 997; words = nine hundred and ninety seven; length = 25
+# number = 998; words = nine hundred and ninety eight; length = 25
+# number = 999; words = nine hundred and ninety nine; length = 24
+# number = 1000; words = one thousand; length = 11
+# n = 1000; number of letters = 21156
+BUILD SUCCESSFUL (total time: 0 seconds)
